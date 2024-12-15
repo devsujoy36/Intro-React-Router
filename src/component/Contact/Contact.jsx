@@ -5,7 +5,13 @@ const Contact = () => {
       <h1>Contact Us</h1>
       <p>We are one call away</p>
       <form action="">
-        <label htmlFor="">Enter First Name
+        <label htmlFor=""> First Name
+          <input type="text" placeholder="Enter First Name" />
+        </label>
+        <label htmlFor=""> Mid Name
+          <input type="text" placeholder="Enter First Name" />
+        </label>
+        <label htmlFor=""> Last Name
           <input type="text" placeholder="Enter First Name" />
         </label>
       </form>
