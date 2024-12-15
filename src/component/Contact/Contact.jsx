@@ -9,10 +9,10 @@ const Contact = () => {
           <input type="text" placeholder="Enter First Name" />
         </label>
         <label htmlFor=""> Mid Name
-          <input type="text" placeholder="Enter First Name" />
+          <input type="text" placeholder="Enter Mid Name" />
         </label>
         <label htmlFor=""> Last Name
-          <input type="text" placeholder="Enter First Name" />
+          <input type="text" placeholder="Enter last Name" />
         </label>
       </form>
     </div>
